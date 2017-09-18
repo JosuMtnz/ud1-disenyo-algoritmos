@@ -1,4 +1,4 @@
-# Ejercicio 21 - Laberinto
+# Ejercicio extra - Laberinto
 
 Diseña un programa para controlar un robot que sea capaz de recorrer este laberinto:
 
