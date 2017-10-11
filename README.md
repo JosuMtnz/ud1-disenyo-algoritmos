@@ -1,5 +1,7 @@
 # Programación 2017
 
+![Unidad didáctica 1](https://img.shields.io/badge/UD-1-blue.svg)
+
 Ejemplos y ejercicios sobre diseño de algoritmos.
 
 ## Ejemplos
